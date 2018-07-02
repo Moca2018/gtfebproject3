@@ -53,3 +53,12 @@ https://github.com/elizabethtfox/tours-travels
 https://tours-travels-project-3.herokuapp.com/
 
 -------------------------
+
+Nelson Quinones
+
+roommates-searching-app
+This will be a matching roommates service. It will be similar to the Friend Finder Homework that we worked in the past. It will allow users to search for a list of people looking for a roommate / the users should be able to filter which kind of roommate do they want. ]
+GitHub: https://github.com/Moca2018/roommates-searching-app
+Heroku/Deployment link: coming soon!
+
+
